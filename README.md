@@ -1,19 +1,27 @@
-# <h1 align='center'>Hi, there! Всем привет!</h1>
-<p align='center'> Я начинающий web-разработчик из Москвы. Хочу стать востребованным и сильным специалистом и создавать интересные проекты. Учусь в Яндекс.Практикум.</p>
+# <h1 align='center'>Hi !</h1>
+<p align='center'>Выпускник переводческого факультета (English/Deutsch). Закончил YandexPraktikum по направлению "веб-разработчик" летом 2023. Стараюсь развиваться в IT, учить что-то новое каждый день. </p>
 
-# <h2 align='center'>Мои навыки</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,sass,typescript,github,figma,webpack,vscode" />
-  </a>
-</p>
+## <h2 align='center'>С чем уже знаком:</h2>
 
-# <h2 align='center'>Детали</p>
+* HTML
+* CSS
+* JavaScript
 
-| 3 важных факта обо мне  | <img alt="Coder GIF" height=250 width=350 src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" /> |
-| :---:  | :---: |
-| <i>Пишу</i> >>> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timgub3009&layout=compact)](https://github.com/timgub3009/github-readme-stats)  |
-| <i>Коммичу</i> >>>  | [![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=timgub3009)](https://github.com/timgub3009/github-readme-stats) |
-| <i>Решаю задачи</i> >>> | [![codewars](https://www.codewars.com/users/timgub3009/badges/small)](https://www.codewars.com/users/timgub3009)   |
+А также:
+
+* Git
+* Figma
+
+## <h2 align='center'>Сейчас осваиваю :</h2>
+
+* TypeScript
+* SCSS/SASS
+* Redux
+* NextJS
+* Tailwind
+
+Репозитории здесь, а задачи решаю на codewars:
+
+[![codewars](https://www.codewars.com/users/timgub3009/badges/small)](https://www.codewars.com/users/timgub3009)
 
 
